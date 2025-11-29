@@ -1,0 +1,49 @@
+[29/11/2025, 5:06:32 pm] Requested: /
+[29/11/2025, 5:06:33 pm] Requested: /favicon.ico
+[29/11/2025, 5:06:36 pm] Requested: /.well-known/appspecific/com.chrome.devtools.json
+[29/11/2025, 5:06:40 pm] Requested: /
+[29/11/2025, 5:06:40 pm] Requested: /.well-known/appspecific/com.chrome.devtools.json
+[29/11/2025, 5:06:40 pm] Requested: /favicon.ico
+[29/11/2025, 5:09:54 pm] Requested: /
+[29/11/2025, 5:09:54 pm] Requested: /style.css
+[29/11/2025, 5:09:54 pm] Requested: /.well-known/appspecific/com.chrome.devtools.json
+[29/11/2025, 5:09:54 pm] Requested: /favicon.ico
+[29/11/2025, 5:13:49 pm] Requested: /
+[29/11/2025, 5:13:49 pm] Requested: /style.css
+[29/11/2025, 5:13:49 pm] Requested: /favicon.ico
+[29/11/2025, 5:13:50 pm] Requested: /
+[29/11/2025, 5:13:50 pm] Requested: /style.css
+[29/11/2025, 5:13:50 pm] Requested: /favicon.ico
+[29/11/2025, 5:14:00 pm] Requested Route: /
+[29/11/2025, 5:14:00 pm] Requested Route: /style.css
+[29/11/2025, 5:14:00 pm] Requested Route: /favicon.ico
+[29/11/2025, 5:14:01 pm] Requested Route: /
+[29/11/2025, 5:14:01 pm] Requested Route: /style.css
+[29/11/2025, 5:14:01 pm] Requested Route: /favicon.ico
+[29/11/2025, 5:14:01 pm] Requested Route: /
+[29/11/2025, 5:14:01 pm] Requested Route: /style.css
+[29/11/2025, 5:14:01 pm] Requested Route: /favicon.ico
+[29/11/2025, 5:14:01 pm] Requested Route: /
+[29/11/2025, 5:14:01 pm] Requested Route: /style.css
+[29/11/2025, 5:14:01 pm] Requested Route: /favicon.ico
+[29/11/2025, 5:14:02 pm] Requested Route: /
+[29/11/2025, 5:14:02 pm] Requested Route: /style.css
+[29/11/2025, 5:14:02 pm] Requested Route: /favicon.ico
+[29/11/2025, 5:17:10 pm] Requested Route: /
+[29/11/2025, 5:17:10 pm] Requested Route: /style.css
+[29/11/2025, 5:17:10 pm] Requested Route: /favicon.ico
+[29/11/2025, 5:17:19 pm] Requested Route: /about
+[29/11/2025, 5:17:19 pm] Requested Route: /style.css
+[29/11/2025, 5:17:20 pm] Requested Route: /favicon.ico
+[29/11/2025, 5:17:56 pm] Requested Route: /contact
+[29/11/2025, 5:17:56 pm] Requested Route: /style.css
+[29/11/2025, 5:17:56 pm] Requested Route: /favicon.ico
+[29/11/2025, 5:18:13 pm] Requested Route: /projects
+[29/11/2025, 5:18:13 pm] Requested Route: /style.css
+[29/11/2025, 5:18:13 pm] Requested Route: /favicon.ico
+[29/11/2025, 5:18:25 pm] Requested Route: /about
+[29/11/2025, 5:18:25 pm] Requested Route: /style.css
+[29/11/2025, 5:18:25 pm] Requested Route: /favicon.ico
+[29/11/2025, 5:18:38 pm] Requested Route: /skills
+[29/11/2025, 5:18:38 pm] Requested Route: /style.css
+[29/11/2025, 5:18:38 pm] Requested Route: /favicon.ico
