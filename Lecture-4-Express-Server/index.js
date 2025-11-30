@@ -2,13 +2,15 @@ const express = require('express')
 const app = express()
 const port = 8000
 
+app.set('view engine', 'ejs');
+
 app.get('/', (req, res) => {
-  res.send('Hello World!')
+  res.render("index")
 })
 
 app.get('/about', (req, res) => {
   const userName = req.query.name ? req.query.name : "Guest";
-  res.send(`About Page ${userName}`);
+  res.render("about", { name: userName });
 });
 
 
